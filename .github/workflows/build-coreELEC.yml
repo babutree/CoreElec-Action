@@ -1,6 +1,5 @@
 name: Build CoreElec-N1
 
-on:
 on: 
   release:
     types: [published]
